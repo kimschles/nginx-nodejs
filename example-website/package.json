@@ -1,0 +1,14 @@
+{
+  "name": "example-website",
+  "version": "1.0.0",
+  "description": "A sample website for an nginx and node.js demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Kim Schlesinger",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
