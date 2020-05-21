@@ -13,6 +13,8 @@
 * `apt-get install docker.io`
 * `docker pull kimschles/example-website:latest`
 * `docker run -p 3000:3000 kimschles/example-website:latest` 
+* See the webpage by opening your browser and going to http://<IP_ADDRESS_OF_YOUR_SERVER>:3000/
+* See the json data by opening your browser and going to http://<IP_ADDRESS_OF_YOUR_SERVER>:3000/
 
 
 ## Installing nginx 
